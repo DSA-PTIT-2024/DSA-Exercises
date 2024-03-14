@@ -9,4 +9,3 @@ Cho bất phương trình sau: (x-10)^2^ > 25, với điều kiện -1000 $\leq$
 1. Hãy viết chương trình in ra các giá trị x thoả mãn.
 
 2. Hãy tính độ phức tạp của thuật toán trên.
-

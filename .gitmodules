@@ -1,0 +1,9 @@
+[submodule "Excercise 2/StudentManagementBySList"]
+	path = Excercise 2/StudentManagementBySList
+	url = git@github.com:DSA-PTIT-2024/StudentManagementBySList.git
+[submodule "Excercise 2/StudentManagementByDList"]
+	path = Excercise 2/StudentManagementByDList
+	url = git@github.com:DSA-PTIT-2024/StudentManagementByDList.git
+[submodule "Excercise 2/StudentManagementByCList"]
+	path = Excercise 2/StudentManagementByCList
+	url = git@github.com:DSA-PTIT-2024/StudentManagementByCList.git
