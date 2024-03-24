@@ -7,3 +7,6 @@
 [submodule "Excercise 2/StudentManagementByCList"]
 	path = Excercise 2/StudentManagementByCList
 	url = git@github.com:DSA-PTIT-2024/StudentManagementByCList.git
+[submodule "Excercise 3/NumberConversionsPtitApp"]
+	path = Excercise 3/NumberConversionsPtitApp
+	url = https://github.com/DSA-PTIT-2024/NumberConversionsPtitApp.git
