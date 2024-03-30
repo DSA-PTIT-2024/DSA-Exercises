@@ -2,7 +2,7 @@
 
 ---
 
-## Tính hàm P~n~(x) đệ quy
+## Tính hàm P~n~(x) không đệ quy
 
 ```c++
 #include <iostream>
