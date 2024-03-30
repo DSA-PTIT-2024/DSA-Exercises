@@ -2,7 +2,6 @@
 
 long long int IterativeCalculator(  long long int,   long long int);
 void TestIterativeCalculator();
-
 long long int IterativeCalculator(  long long int x,   long long int n)
 {
     if (n == 0)
